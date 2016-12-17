@@ -22,7 +22,7 @@ public partial class pageUsuario : System.Web.UI.Page
         //    //horariosServicios.inicio = txtinicio.Text;
         //    //horariosServicios.final = txtfinal.Text;
         //    //horariosServicios.dia = txtdia.Text;
-        //    //horariosServicios.agregarHorario();
+        //    //horariosServicios.agregarHorario();dcdcdcd
         //    //lblestado.Text = "Horario de servicio insertado correctamente";
         //    //limpiarHoararios();
         //}
